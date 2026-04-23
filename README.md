@@ -11,6 +11,14 @@
 ## Objective
 Develop a comprehensive Healthcare Performance Analytics dashboard to enable healthcare leaders and analysts to track key metrics, identify trends, and make data-driven decisions. The dashboard visualizes patient admissions, revenue, and operational performance to support improvements in patient care, resource utilization, and financial outcomes.
 
+## DashBoard:
+<img width="981" height="837" alt="image" src="https://github.com/user-attachments/assets/e507689c-1ebf-4e55-a367-680f243d0de3" />
+
+
+
+
+
+
 ## Dashboard Overview
 - Healthcare Performance Overview
 - Patient Admissions & Trends
