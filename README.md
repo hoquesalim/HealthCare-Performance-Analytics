@@ -1,25 +1,21 @@
 
-# Healthcare Performance Analytics Dashboard (Power BI,SQL Project,Excel)
-## Table of Contents
+# Healthcare Performance Analytics Dashboard (Power BI,SQL Project,Excel):
+## Table of Contents:
 - Objective
 - Dashboard Overview
 - Data Sources
 - Key KPIs & Business Questions
 - How to Use
 - Technologies Used
-
-### Objective
+### Objective:
 Develop a comprehensive Healthcare Performance Analytics dashboard to enable healthcare leaders and analysts to track key metrics, identify trends, and make data-driven decisions. The dashboard visualizes patient admissions, revenue, and operational performance to support improvements in patient care, resource utilization, and financial outcomes.
-
-
-### Dashboard Overview
+### Dashboard Overview:
 - Healthcare Performance Overview
 - Patient Admissions & Trends
-
-### Data Sources
-- PatientRecords.csv
-- HospitalsStateMapping.csv
-- USRegionsStates.csv
+### Data Sources:
+- [PatientRecords.csv](./PatientRecords.csv)
+- [HospitalsStateMapping.csv](./HospitalsStateMapping.csv)
+- [USRegionsStates.csv](./USRegionsStates.csv)
 
 ### Key KPIs & Business Questions
 - Average Patient Stay Duration
@@ -32,7 +28,6 @@ Develop a comprehensive Healthcare Performance Analytics dashboard to enable hea
 - Admissions by Medical Condition
 - Daily Admissions Trend
 - Patient Summary Table
-
 ### How to Use
 1. Download the CSV files from the Data Sources section.
 2. Open the Power BI dashboard file.
