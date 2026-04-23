@@ -1,5 +1,5 @@
 
-# Healthcare Performance Analytics Dashboard (Power BI & SQL Project)
+# Healthcare Performance Analytics Dashboard (Power BI,SQL Project,Excel)
 ## Table of Contents
 - Objective
 - Dashboard Overview
